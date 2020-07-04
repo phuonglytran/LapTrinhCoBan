@@ -10,6 +10,7 @@ namespace Bai01
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
